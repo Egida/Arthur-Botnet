@@ -1,0 +1,5 @@
+C:\Users\Hussain Waseem\Desktop\main\Coding\Projects\Arthur Botnet\Arthur\Arthur\obj\Debug\Virus.csprojResolveAssemblyReference.cache
+C:\Users\Hussain Waseem\Desktop\main\Coding\Projects\Arthur Botnet\Arthur\Arthur\bin\Debug\Virus.exe
+C:\Users\Hussain Waseem\Desktop\main\Coding\Projects\Arthur Botnet\Arthur\Arthur\bin\Debug\Virus.pdb
+C:\Users\Hussain Waseem\Desktop\main\Coding\Projects\Arthur Botnet\Arthur\Arthur\obj\Debug\Virus.exe
+C:\Users\Hussain Waseem\Desktop\main\Coding\Projects\Arthur Botnet\Arthur\Arthur\obj\Debug\Virus.pdb

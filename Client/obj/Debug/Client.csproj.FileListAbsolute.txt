@@ -1,0 +1,5 @@
+C:\Users\Hussain Waseem\Desktop\main\Coding\Projects\Arthur Botnet\Arthur\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Hussain Waseem\Desktop\main\Coding\Projects\Arthur Botnet\Arthur\Client\bin\Debug\Client.exe
+C:\Users\Hussain Waseem\Desktop\main\Coding\Projects\Arthur Botnet\Arthur\Client\bin\Debug\Client.pdb
+C:\Users\Hussain Waseem\Desktop\main\Coding\Projects\Arthur Botnet\Arthur\Client\obj\Debug\Client.exe
+C:\Users\Hussain Waseem\Desktop\main\Coding\Projects\Arthur Botnet\Arthur\Client\obj\Debug\Client.pdb
