@@ -1,11 +1,4 @@
-﻿/*
- * Created by SharpDevelop.
- * User: Hussain Waseem
- * Date: 9/20/2022
- * Time: 11:23 PM
- * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
- */
+﻿
 using System;
 using System.Threading.Tasks;
 using System.Net;
